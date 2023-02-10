@@ -1,0 +1,27 @@
+.container-fluid {
+  padding: 1%  7%;
+}
+
+.ceo_name{
+  margin-left: 15cm;
+}
+
+hr {
+  border-color: #000D6B;
+  border-style: dotted none none;
+  width: 5%;
+  border-width: 5px;
+}
+
+@media (max-width: 1028px) {
+
+  #title {
+    text-align: center;
+  }
+
+  .title-image {
+    position: absolute;
+    position: static;
+    transform: rotate(0);
+  }
+}
